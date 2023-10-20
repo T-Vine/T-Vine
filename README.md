@@ -3,3 +3,8 @@ I am especially eager in the usage of coding to solve problems both big and smal
 Though at the moment I am only tinkering with projects in order to develop my skills, I hope to be able to collaborate with others to do such a thing one day. 
 
 Thank you for reading this!
+
+Recent Things I've Been Working On (not yet public):
+- Visualizing the Mandelbrot set, and general research into complex numbers.
+- Using AI to scrape large data sets, hopefully ones relating to healthcare to examine this.
+- Visualizing Flow Fields
