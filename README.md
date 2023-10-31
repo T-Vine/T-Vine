@@ -4,7 +4,8 @@ Though at the moment I am only tinkering with projects in order to develop my sk
 
 Thank you for reading this!
 
-Recent Things I've Been Working On (not yet public):
-- Visualizing the Mandelbrot set, and general research into complex numbers.
-- Using AI to scrape large data sets, hopefully ones relating to healthcare to examine this.
-- Visualizing Flow Fields
+Things I'm planning/working on:
+- Visualizing the Mandelbrot set and other fractals.
+- An algorithm for creating Lagrange polynomials.
+- Visualizing Flow Fields.
+- Machine Learning/AI
