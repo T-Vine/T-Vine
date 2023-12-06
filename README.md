@@ -1,4 +1,4 @@
-Edit: I've made a new website! For some more information about me, please check out [t-vine.github.io]
+Edit: I've made a new website! For some more information about me, please check out t-vine.github.io
 
 
 Hello, I'm T-Vine! I'm an amateur coder interested in several languages and increasing my general knowledge.
