@@ -2,7 +2,7 @@ Edit: I've made a new website! For some more information about me, please check 
 
 
 Hello, I'm T-Vine! I'm an amateur coder interested in several languages and increasing my general knowledge.
-I'm especially interested in the realm of Mathematical or Computational Biology, and the usage of AI within that.
+I'm especially interested in the realm of Mathematical or Computational Biology.
 
 Thank you for reading this!
 
