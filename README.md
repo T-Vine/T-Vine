@@ -1,10 +1,4 @@
-Edit: I've made a new website! For some more information about me, please check out "t-vine.github.io". There's only a little on it, due to some personal problems currently. 
-
-
-Hello, I'm T-Vine! I'm an amateur coder interested in several languages and increasing my general knowledge.
-I'm especially interested in the realm of Mathematical or Computational Biology.
-
-Thank you for reading this!
+Hello, I'm T-Vine, a passionate programmer and amateur mathematician. I have a strong love for the use of technology for good, and commonly code in Python, Javascript, the Wolfram Language or Rust.
 
 Things I'm planning/working on:
 - ~Visualizing the Mandelbrot set and other fractals.~ Completed! Mandelbrot, Multibrot, Tricorn and the Julia set have all been modelled!
